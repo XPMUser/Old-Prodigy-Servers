@@ -1,2 +1,2 @@
-# Prodidows-server
-Repo for prodidows servers
+# Old Prodigy-server
+Repo for old prodigy servers
